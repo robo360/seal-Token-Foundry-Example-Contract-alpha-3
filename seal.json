@@ -3,6 +3,7 @@
   "contracts": [
     {
       "contract": "TetherToken",
+      "contractFileLocation": "scr/TetherToken.sol",
       "constructors": [1000000000, "TetherToken", "USDT", 5],
       "constructorPayableEthAmount": 0
     },
